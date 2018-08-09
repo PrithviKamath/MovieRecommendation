@@ -55,7 +55,7 @@ Filtered the ratings for movie with movieId equal to 1 i.e. ratings for 'Toy Sto
 Sampled the movies into 5 bins based on ratings. Fitted the sample into normal distribution.
 The sample appears to be left skewed indicating a unimodal distribution.
 Plotted the maximum likelihood estimation for the sampled data and estimated the parameters viz. mean and variance for the sample.
-<img src='https://github.com/PrithviKamath/MovieRecommendation/blob/master/Images/MLE.png'></img>
+<img src='https://github.com/PrithviKamath/MovieRecommendation/blob/master/Images/MLE.PNG'></img>
 
 ## Representing and extracting data using RDD
 Initially we trained and tested our model on a small dataset with around 10,000 ratings.
