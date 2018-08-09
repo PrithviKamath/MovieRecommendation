@@ -72,7 +72,7 @@
       <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
         <calculation class='tableau' formula='1' />
       </column>
-      <layout dim-ordering='alphabetic' dim-percentage='0.525191' measure-ordering='alphabetic' measure-percentage='0.474809' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.534447' measure-ordering='alphabetic' measure-percentage='0.465553' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -195,7 +195,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='1' />
+      <active id='-1' />
     </window>
   </windows>
   <thumbnails>
